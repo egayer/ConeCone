@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gayer"
+  given-names: "Eric"
+- family-names: "Michon"
+  given-names: "Laurent"
+- family-names: "Villeneuve"
+  given-names: "Nicolas"
+title: "Volcanic island multi-stage construction inferred from a simple geometrical approach : Example of Réunion Island"
+version: 1.0.2
+doi: 10.1016/j.geomorph.2021.107900
+date-released: 2021-08-10
+url: "https://github.com/egayer/ConeCone"
